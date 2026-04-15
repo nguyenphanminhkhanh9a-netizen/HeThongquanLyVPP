@@ -1,3 +1,1 @@
-CREATE DATABASE VPP_Store;
-GO
-USE VPP_Store;
+
