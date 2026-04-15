@@ -1,3 +1,5 @@
+
+
 CREATE DATABASE QL_VanPhongPham;
 GO
 USE QL_VanPhongPham;
